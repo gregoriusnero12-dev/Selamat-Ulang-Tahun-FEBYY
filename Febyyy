@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>HBD FEBY 27</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #fce4ec, #f3e5f5);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+            color: #4a148c;
+            text-align: center;
+        }
+        .card {
+            background: rgba(255, 255, 255, 0.8);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            max-width: 400px;
+            z-index: 1;
+        }
+        h1 { font-size: 3rem; margin-bottom: 10px; }
+        .age { font-size: 5rem; font-weight: bold; color: #d81b60; }
+        p { line-height: 1.6; }
+        .footer { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <p>Happy Birthday,</p>
+        <h1>FEBY</h1>
+        <div class="age">27</div>
+        <p>"Semoga tahun ini penuh dengan petualangan baru, kebahagiaan tak terduga, dan pencapaian yang luar biasa."</p>
+        <div class="footer">Cheers to you! 🥂</div>
+    </div>
+</body>
+</html>
